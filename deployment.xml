@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<package xmlns="http://www.zend.com/server/deployment-descriptor/1.0" version="1.0">
+    <name>TicketSys</name>
+    <summary>PHP/MySQL Help Desk Ticket System</summary>
+    <description>A help desk ticket system that can process incoming mail via POP3 and convert it into a ticket automatically, or will allow tickets to be hand entered. Tracks ticket status, escalates based on rules, sends email responses, creates knowledge base over time.</description>
+    <version>
+        <release>1.0.0</release>
+    </version>
+    <appdir>data</appdir>
+</package>
