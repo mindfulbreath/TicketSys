@@ -1,5 +1,5 @@
-#Sat Oct 22 23:29:45 PDT 2011
-DefaultProjectBasePath=/TicketSys
+#Sun Oct 23 00:15:39 PDT 2011
+DefaultProjectBasePath=TicketSys
 eclipse.preferences.version=1
 org.eclipse.php.debug.core.use-project-settings=true
 org.eclipse.php.debug.coredefaultPHP=PHP 5.3.3 (CGI)
