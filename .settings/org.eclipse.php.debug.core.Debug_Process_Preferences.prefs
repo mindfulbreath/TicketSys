@@ -1,10 +1,3 @@
-#Sun Oct 23 00:15:39 PDT 2011
+#Sun Oct 23 01:18:00 PDT 2011
 DefaultProjectBasePath=TicketSys
 eclipse.preferences.version=1
-org.eclipse.php.debug.core.use-project-settings=true
-org.eclipse.php.debug.coredefaultPHP=PHP 5.3.3 (CGI)
-org.eclipse.php.debug.coreenable_cli_debug=false
-org.eclipse.php.debug.coreoutput_encoding=UTF-8
-org.eclipse.php.debug.corephp_debugger_id=org.eclipse.php.debug.core.zendDebugger
-org.eclipse.php.debug.corestop_at_first_line_string=true
-org.eclipse.php.debug.coretransfer_encoding=UTF-8
