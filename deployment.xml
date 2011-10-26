@@ -7,4 +7,36 @@
         <release>1.0.0</release>
     </version>
     <appdir>data</appdir>
-</package>
+    <dependencies>
+    <required>
+      <php>
+        <min>5.3.2</min>
+      </php>
+      <directive>
+        <name>short_open_tag</name>
+        <equals>Off</equals>
+      </directive>
+      <directive>
+        <name>magic_quotes_gpc</name>
+        <equals>Off</equals>
+      </directive>
+      <directive>
+        <name>register_globals</name>
+        <equals>Off</equals>
+      </directive>
+      <directive>
+        <name>session.auto_start</name>
+        <equals>Off</equals>
+      </directive>
+      <extension>
+        <name>SQLite</name>
+        </extension>
+      <extension>
+        <name>PDO</name>
+        </extension>
+      <extension>
+        <name>intl</name>
+        </extension>
+    </required>
+  </dependencies>
+    </package>
