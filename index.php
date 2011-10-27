@@ -26,6 +26,8 @@
 
 <body>
 	<div id="notice">This deployment is working properly.</div>
+	
+	<?php phpinfo(); ?>
 </body>
 
 </html>
